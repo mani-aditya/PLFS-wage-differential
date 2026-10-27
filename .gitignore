@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+# Never commit survey microdata or notebook exports
+*.csv
+*.xlsx
+*.dta

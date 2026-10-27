@@ -1,0 +1,8 @@
+streamlit>=1.40
+plotly>=5.20
+numpy
+pandas
+statsmodels
+# The pickle must be read with the same library versions that saved it.
+# In your Colab notebook run the snippet in README.md and paste the pinned
+# versions of statsmodels, pandas, numpy and scipy here (replace the unpinned lines above).
